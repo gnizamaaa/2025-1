@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdf6693f209a0840",
+            "id": "17a224d003ab85c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avaliação de Desempenho/Aula 03 - Distribuição exponencial.md",
+                "file": "Camada de acesso e Tecnologia de borda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 03 - Distribuição exponencial"
+              "title": "Camada de acesso e Tecnologia de borda"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf6693f209a0840",
+  "active": "17a224d003ab85c7",
   "lastOpenFiles": [
+    "Camada de acesso e Tecnologia de borda.md",
+    "Otimização e Programação Linear/TSP.md",
     "Avaliação de Desempenho/Aula 03 - Distribuição exponencial.md",
     "Minimal Colab.md",
     "Avaliação de Desempenho/Métricas de desempenho.md",
