@@ -67,6 +67,6 @@ $$Pr\{X_1\ge T\} * Pr\{\ X_2\ge T \}\ (Pr\{A\}*Pr\{B\})$$
 Isso é $$e^{-\mu_1 t}*e^{-\mu_2 t} \to e^{-(\mu_1+\mu_2)t}$$Logo ela é uma probabilidade exponencialmente distribuída com razão $\mu_1 +\mu_2$. $X\sim Exp(\mu_1+\mu_2)$
 
 ### Spoiler da próx aula:
-Poisson vai ser usado para modelar quantos clientes chegam ao sistema, uma variável aleatória discreta 
+Poisson vai ser usado para modelar quantos clientes chegam ao sistemaaula, uma variável aleatória discreta 
 Se o processo de chega é de Poisson, o intervalo entre chegadas sucessivas é exponencialmente distribuído, aparece de novo a exponencial.
 Também é markoviana!
