@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aaad8827caf92af",
+            "id": "cb7c482c8b650819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avaliação de Desempenho/Aula 07 - Explorando a fila MM1 - Métricas de desempenho.md",
+                "file": "Aula 08 - Fila finita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 07 - Explorando a fila MM1 - Métricas de desempenho"
+              "title": "Aula 08 - Fila finita"
             }
           }
         ]
@@ -170,10 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2aaad8827caf92af",
+  "active": "cb7c482c8b650819",
   "lastOpenFiles": [
-    "Avaliação de Desempenho/Métricas de desempenho.md",
+    "Pasted image 20250528104806.png",
+    "Pasted image 20250528104642.png",
+    "Aula 08 - Fila finita.md",
     "Avaliação de Desempenho/Aula 07 - Explorando a fila MM1 - Métricas de desempenho.md",
+    "Avaliação de Desempenho/Métricas de desempenho.md",
     "Otimização e Programação Linear/Ying e Yang - Min, max ; Dual.md",
     "Avaliação de Desempenho/Aula 06 - Processo de Poisson (2 e 3 definição + prova de equivalência) e Fila MM1.md",
     "WhatsApp Image 2025-05-21 at 10.49.27 AM.jpeg",
@@ -204,11 +207,8 @@
     "IoT/RFID.md",
     "IoT/Apresentação da disciplina (segunda metade).md",
     "Otimização e Programação Linear/AMPL.md",
-    "Otimização e Programação Linear/SimplexCanalizado - Colab.md",
-    "Otimização e Programação Linear/Introdutória.md",
     "IoT",
     "Pasted image 20250424101647.png",
-    "Pasted image 20250424101521.png",
     "Avaliação de Desempenho",
     "Otimização e Programação Linear"
   ]
