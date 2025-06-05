@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otimização e Programação Linear/Problema da árvore de steiner.md",
+                "file": "IoT/MQTT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problema da árvore de steiner"
+              "title": "MQTT"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2556665b1790a67b",
+  "active": "6c241c1b2340fe99",
   "lastOpenFiles": [
-    "Avaliação de Desempenho/Aula 10 - Modelo MMbb.md",
     "Otimização e Programação Linear/Problema da árvore de steiner.md",
+    "Avaliação de Desempenho/Aula 10 - Modelo MMbb.md",
+    "IoT/MQTT.md",
     "Pasted image 20250605102506.png",
     "Pasted image 20250605102431.png",
     "8a1f62f6-8ab1-46a6-8255-4d51ae73e04e.jpeg",
