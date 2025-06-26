@@ -36,7 +36,7 @@ Isso é $$\sum^{\infty}_{n=0}\rho^n\pi_0 = 1 \to \pi_0 \sum^{\infty}_{n=0}\rho^n
 
 Sabendo que $\lambda$ precisa ser maior que \mu para cumprir a estabilidade do sistema, da fila ser finita
 Assim $\rho$ será menor que 1 sempre e a PG formada por $\sum^{\infty}_{n=0}\rho^n$ irá convergir para $\dfrac{1}{1-\rho}$
-E podemos então dizer que $$\pi_0 = 1-p$$ e então que:$$ \pi_n = \rho^n (1-p)$$
+E podemos então dizer que $$\pi_0 = 1-\rho$$ e então que:$$ \pi_n = \rho^n (1-p)$$
 
 ## Exemplo
 $\lambda$ = 3 alunos/min $\mu$= 5 alunos/min 
